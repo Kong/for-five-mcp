@@ -6,6 +6,10 @@
 
 A Model Context Protocol (MCP) server that provides access to [For Five Coffee](https://for-five-coffee.ordrsliponline.com/menus) menu data. Works with Claude Desktop, Cursor, and other MCP clients, plus provides a REST API.
 
+<a href="https://glama.ai/mcp/servers/@Kong/menu-mpc">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Kong/menu-mpc/badge" alt="For Five Coffee Server MCP server" />
+</a>
+
 ## Quick Start
 
 ```bash
